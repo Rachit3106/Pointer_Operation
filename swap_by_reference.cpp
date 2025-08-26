@@ -1,3 +1,8 @@
+/*
+Name:-Rachit Deshpande
+PRN:-24070123035
+Batch:-A2
+*/
 #include <iostream>
 using namespace std;
 void swap(int &x,int &y){
@@ -13,3 +18,8 @@ int main(){
     cout << "In main: a = " << a << ", b = " << b << endl;
     return 0;
 }
+/*
+Output:
+After swapping using reference: x = 10, y = 5
+In main: a = 10, b = 5
+*/
